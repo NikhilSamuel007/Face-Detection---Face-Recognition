@@ -26,7 +26,6 @@ This project aims to train a face recognition model using a pre-trained ResNet50
 ## Installation
 Clone the repository:
 git clone https://github.com/NikhilSamuel007/Face-Detection-and-Face-Recognition/face_recognition_resnet50.git
-cd face_recognition_resnet50
 
 ## Dataset Structure
 Your dataset should be organized in the following structure:
