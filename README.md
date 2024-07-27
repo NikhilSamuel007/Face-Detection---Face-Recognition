@@ -4,14 +4,13 @@ Face Detection using OpenCV &amp; Face Recognition using ResNet50 model
 This project aims to train a face recognition model using a pre-trained ResNet50 network. The script allows for training, validation, and saving of the model
 # Face Recognition
 ## Table of Contents
-  Requirements
-  Installation
-  Dataset Structure
-  Usage
-  Training
-  Saving the Model
+ - Requirements
+ - Installation
+ - Dataset Structure
+ - Usage
+ - Training
+ - Saving the Model
 
-## Requirements
 ## Requirements
 
 - Python
@@ -54,7 +53,7 @@ dataset/
 
 ## Training
 To train the model, run the training.py script with the required arguments:
-python training_final.py --data_dir "path/to/dataset" --num_epochs 100 --batch_size 32 --learning_rate 0.001
+- python training_final.py --data_dir "path/to/dataset" --num_epochs 100 --batch_size 32 --learning_rate 0.001
 
 ## Arguments
 - --data_dir: Path to the dataset directory.
