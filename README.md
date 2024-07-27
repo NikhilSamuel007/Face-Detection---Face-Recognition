@@ -114,3 +114,7 @@ The script prints the following performance metrics to the console:
 - Recall
 - F1 Score
 - Accuracy
+
+## Results: 
+![pred1](https://github.com/user-attachments/assets/274c8e07-3ff5-401b-b6b6-d591d46a5f9a)
+![pred2](https://github.com/user-attachments/assets/05bde3e6-b8af-469c-878b-b32649e6eeba)
