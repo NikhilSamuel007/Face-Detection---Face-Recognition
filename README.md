@@ -69,6 +69,9 @@ python face_recognition_detection.py /path/to/input/image.jpg /path/to/output/im
 
 ## Results:
 ![unknown_face_image](https://github.com/user-attachments/assets/75854126-db15-49b7-b214-89c03c8c6b67)
+![result](https://github.com/user-attachments/assets/31de7458-8cf9-4c06-ae72-b14091f38296)
+
+
 
 # Face Detection
 
